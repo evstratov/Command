@@ -1,0 +1,11 @@
+E:\C# Projects\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.exe
+E:\C# Projects\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+E:\C# Projects\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+E:\C# Projects\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+E:\C# Projects\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.dll
+E:\C# Projects\Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.pdb
+E:\C# Projects\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.csprojAssemblyReference.cache
+E:\C# Projects\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+E:\C# Projects\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+E:\C# Projects\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.dll
+E:\C# Projects\Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.pdb
